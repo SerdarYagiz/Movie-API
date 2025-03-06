@@ -1,0 +1,17 @@
+C:\Users\Serda\RiderProjects\MovieApp\MA.Service\bin\Debug\net8.0\MA.Service.deps.json
+C:\Users\Serda\RiderProjects\MovieApp\MA.Service\bin\Debug\net8.0\MA.Service.dll
+C:\Users\Serda\RiderProjects\MovieApp\MA.Service\bin\Debug\net8.0\MA.Service.pdb
+C:\Users\Serda\RiderProjects\MovieApp\MA.Service\obj\Debug\net8.0\MA.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serda\RiderProjects\MovieApp\MA.Service\obj\Debug\net8.0\MA.Service.AssemblyInfoInputs.cache
+C:\Users\Serda\RiderProjects\MovieApp\MA.Service\obj\Debug\net8.0\MA.Service.AssemblyInfo.cs
+C:\Users\Serda\RiderProjects\MovieApp\MA.Service\obj\Debug\net8.0\MA.Service.csproj.CoreCompileInputs.cache
+C:\Users\Serda\RiderProjects\MovieApp\MA.Service\obj\Debug\net8.0\MA.Service.dll
+C:\Users\Serda\RiderProjects\MovieApp\MA.Service\obj\Debug\net8.0\refint\MA.Service.dll
+C:\Users\Serda\RiderProjects\MovieApp\MA.Service\obj\Debug\net8.0\MA.Service.pdb
+C:\Users\Serda\RiderProjects\MovieApp\MA.Service\obj\Debug\net8.0\ref\MA.Service.dll
+C:\Users\Serda\RiderProjects\MovieApp\MA.Service\bin\Debug\net8.0\MA.Data.dll
+C:\Users\Serda\RiderProjects\MovieApp\MA.Service\bin\Debug\net8.0\MA.Data.pdb
+C:\Users\Serda\RiderProjects\MovieApp\MA.Service\obj\Debug\net8.0\MA.Service.csproj.AssemblyReference.cache
+C:\Users\Serda\RiderProjects\MovieApp\MA.Service\obj\Debug\net8.0\MA.Service.csproj.Up2Date
+C:\Users\Serda\RiderProjects\MovieApp\MA.Service\bin\Debug\net8.0\MA.DTOs.dll
+C:\Users\Serda\RiderProjects\MovieApp\MA.Service\bin\Debug\net8.0\MA.DTOs.pdb

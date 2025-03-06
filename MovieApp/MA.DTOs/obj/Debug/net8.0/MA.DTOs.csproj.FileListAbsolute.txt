@@ -1,0 +1,11 @@
+C:\Users\Serda\RiderProjects\MovieApp\MA.DTOs\bin\Debug\net8.0\MA.DTOs.deps.json
+C:\Users\Serda\RiderProjects\MovieApp\MA.DTOs\bin\Debug\net8.0\MA.DTOs.dll
+C:\Users\Serda\RiderProjects\MovieApp\MA.DTOs\bin\Debug\net8.0\MA.DTOs.pdb
+C:\Users\Serda\RiderProjects\MovieApp\MA.DTOs\obj\Debug\net8.0\MA.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serda\RiderProjects\MovieApp\MA.DTOs\obj\Debug\net8.0\MA.DTOs.AssemblyInfoInputs.cache
+C:\Users\Serda\RiderProjects\MovieApp\MA.DTOs\obj\Debug\net8.0\MA.DTOs.AssemblyInfo.cs
+C:\Users\Serda\RiderProjects\MovieApp\MA.DTOs\obj\Debug\net8.0\MA.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Serda\RiderProjects\MovieApp\MA.DTOs\obj\Debug\net8.0\MA.DTOs.dll
+C:\Users\Serda\RiderProjects\MovieApp\MA.DTOs\obj\Debug\net8.0\refint\MA.DTOs.dll
+C:\Users\Serda\RiderProjects\MovieApp\MA.DTOs\obj\Debug\net8.0\MA.DTOs.pdb
+C:\Users\Serda\RiderProjects\MovieApp\MA.DTOs\obj\Debug\net8.0\ref\MA.DTOs.dll
